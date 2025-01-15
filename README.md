@@ -4,12 +4,17 @@ Welcome to the "automation" repository! This is where I store code that automate
 
 ## Projects
 
+### Directory for this project
+https://github.com/hvaandres/Automation/tree/main/Discord/automation/tech_news
+
 #### Discord & NYTimes API:
 - Automation: I developed a Discord bot for my community channel, Space Creators, that integrates with the New York Times API. This bot automatically fetches and shares the latest 5 tech news articles, keeping my audience engaged and up to date with current events in the tech world. This automation helps foster real-time interaction and provides value to the community without manual effort.
 
 #### Links:
 - Developer NYTimes - https://developer.nytimes.com/
 - Discord: https://discord.com/developers
+
+
 
 
 
