@@ -1,0 +1,14 @@
+# Ignore .env file
+.env
+./.env
+*.env
+
+# Ignore node_modules directory
+node_modules
+./node_modules
+./client/node_modules
+./server/node_modules
+
+# Ignore venv directory
+venv
+./venv
