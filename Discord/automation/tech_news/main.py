@@ -32,7 +32,7 @@ def fetch_latest_news():
 
 # Filter articles based on specific topics
 def filter_articles(articles):
-    keywords = ['vulnerability', 'cybersecurity', 'gadget', 'tech', 'UX', 'design', 'innovation']
+    keywords = ['vulnerabilities', 'cybersecurity', 'gadget', 'tech', 'UX', 'design', 'mobile devices updates', 'ios updates', 'android updates']
     filtered = []
     for article in articles:
         title = article.get('title', '').lower()
